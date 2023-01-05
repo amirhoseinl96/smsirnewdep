@@ -1,17 +1,17 @@
 {
-    "name": "Ipecompany/Smsirlaravel",
-    "description": "Official Sms.ir Laravel Package",
+    "name": "amirhoseinl96/sms.irnew-dep",
+    "description": "amirhoseinl96/sms.irnew-dep",
     "keywords": ["laravel", "sms", "پیامک", "اس ام اس", "sendsms", "notifacation", "sms.ir"],
     "license": "MIT",
     "authors": [
         {
-            "name": "moein.alizadeh",
-            "email": "moein.alizade@gmail.com"
+            "name": "amirhosein",
+            "email": "cafeeparsian.tat@gmail.com"
         }
     ],
     "autoload": {
         "psr-4": {
-            "Ipecompany\\Smsirlaravel\\": "src"
+            "amirhoseinl96\\sms.irnew-dep\\": "src"
         }
     },
     "require": {
