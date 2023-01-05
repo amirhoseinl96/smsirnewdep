@@ -1,6 +1,6 @@
 {
-    "name": "amirhoseinl96/smsirnew-dep",
-    "description": "amirhoseinl96/smsirnew-dep",
+    "name": "amirhoseinl96/smsirnewdep",
+    "description": "amirhoseinl96/smsirnewdep",
     "keywords": ["laravel", "sms", "پیامک", "اس ام اس", "sendsms", "notifacation", "sms.ir"],
     "license": "MIT",
     "authors": [
@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "amirhoseinl96\\smsirnew-dep\\": "src"
+            "amirhoseinl96\\smsirnewdep\\": "src"
         }
     },
     "require": {
