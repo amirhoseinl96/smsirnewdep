@@ -21,7 +21,7 @@ Hi, if you have an account in sms.ir, you can use this package for laravel
 How to install:
 -------------
 
-    composer require ipecompany/smsirlaravel
+    composer require amirhoseinl96/sms.irnew-dep
     php artisan vendor:publish
     php artisan migrate
 
