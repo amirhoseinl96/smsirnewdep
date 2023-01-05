@@ -2,10 +2,10 @@
 
 <p align="center">Official Laravel Package for sms.ir</p>
 
-[![Latest Stable Version](https://poser.pugx.org/ipecompany/smsirlaravel/v/stable)](https://packagist.org/packages/amirhoseinl96/sms.irnew-dep)
-[![Total Downloads](https://poser.pugx.org/ipecompany/smsirlaravel/downloads)](https://packagist.org/packages/amirhoseinl96/sms.irnew-dep)
-[![Monthly Downloads](https://poser.pugx.org/ipecompany/smsirlaravel/d/monthly)](https://packagist.org/packages/amirhoseinl96/sms.irnew-dep)
-[![License](https://poser.pugx.org/ipecompany/smsirlaravel/license)](https://packagist.org/packages/amirhoseinl96/sms.irnew-dep)
+[![Latest Stable Version](https://poser.pugx.org/ipecompany/smsirlaravel/v/stable)](https://packagist.org/packages/amirhoseinl96/smsirnew-dep)
+[![Total Downloads](https://poser.pugx.org/ipecompany/smsirlaravel/downloads)](https://packagist.org/packages/amirhoseinl96/smsirnew-dep)
+[![Monthly Downloads](https://poser.pugx.org/ipecompany/smsirlaravel/d/monthly)](https://packagist.org/packages/amirhoseinl96/smsirnew-dep)
+[![License](https://poser.pugx.org/ipecompany/smsirlaravel/license)](https://packagist.org/packages/amirhoseinl96/smsirnew-dep)
 
 
 
@@ -21,7 +21,7 @@ Hi, if you have an account in sms.ir, you can use this package for laravel
 How to install:
 -------------
 
-    composer require amirhoseinl96/sms.irnew-dep
+    composer require amirhoseinl96/smsirnew-dep
     php artisan vendor:publish
     php artisan migrate
 
