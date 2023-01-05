@@ -2,10 +2,10 @@
 
 <p align="center">Official Laravel Package for sms.ir</p>
 
-[![Latest Stable Version](https://poser.pugx.org/ipecompany/smsirlaravel/v/stable)](https://packagist.org/packages/ipecompany/smsirlaravel)
-[![Total Downloads](https://poser.pugx.org/ipecompany/smsirlaravel/downloads)](https://packagist.org/packages/ipecompany/smsirlaravel)
-[![Monthly Downloads](https://poser.pugx.org/ipecompany/smsirlaravel/d/monthly)](https://packagist.org/packages/ipecompany/smsirlaravel)
-[![License](https://poser.pugx.org/ipecompany/smsirlaravel/license)](https://packagist.org/packages/ipecompany/smsirlaravel)
+[![Latest Stable Version](https://poser.pugx.org/ipecompany/smsirlaravel/v/stable)](https://packagist.org/packages/amirhoseinl96/sms.irnew-dep)
+[![Total Downloads](https://poser.pugx.org/ipecompany/smsirlaravel/downloads)](https://packagist.org/packages/amirhoseinl96/sms.irnew-dep)
+[![Monthly Downloads](https://poser.pugx.org/ipecompany/smsirlaravel/d/monthly)](https://packagist.org/packages/amirhoseinl96/sms.irnew-dep)
+[![License](https://poser.pugx.org/ipecompany/smsirlaravel/license)](https://packagist.org/packages/amirhoseinl96/sms.irnew-dep)
 
 
 
